@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/droneshighways.client/.vscode
+/droneshighways.client/obj
+/DronesHighways.Server/bin
+/DronesHighways.Server/obj
